@@ -1,7 +1,7 @@
 # project_code
 coders required
 A lot of changes and code were put in this new branch so that we can compare the codes whenever required so we don't have to have problem
-when passing the codes for version controllig systems. The different versions can be extracted from here. 
+when passing the codes for version controlling systems. The different versions can be extracted from here. 
 
 
 Use Android studio to open the project and use the latest version of Android Studio to clone the file and open the project. 
