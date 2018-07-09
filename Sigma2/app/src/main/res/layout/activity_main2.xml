@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main2Activity"
+    android:theme="@style/AlertDialog.AppCompat.Light">
+
+    <LinearLayout
+        android:layout_width="430dp"
+        android:layout_height="649dp"
+        android:orientation="vertical"
+        android:padding="120dp">
+
+        <TextView
+            android:id="@+id/replymessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:text=""
+            android:textColor="@android:color/black" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="123dp"
+            android:layout_height="169dp"
+            android:contentDescription="@string/app_name"
+            android:padding="20dp"
+            app:srcCompat="@drawable/sigma"
+            tools:layout_editor_absoluteX="131dp"
+            tools:layout_editor_absoluteY="190dp" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:text="@string/message"
+            android:textColor="@android:color/black" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="65dp"
+            android:paddingLeft="35dp"
+            android:text="@string/login" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

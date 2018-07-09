@@ -1,7 +1,19 @@
 #Internal package file, do not edit.
-#Thu Jul 05 22:08:07 NPT 2018
+#Fri Jul 06 00:43:55 NPT 2018
+1.base=E\:\\projects android\\Sigma2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\63
+2.path=classes.dex
 0.baseType=DIRECTORY
-0.base=E\:\\projects android\\Sigma2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\34
+3.baseType=DIRECTORY
+2.base=E\:\\projects android\\Sigma2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\66
+3.set=DEX
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=DEX
 0.path=classes.dex
+3.base=E\:\\projects android\\Sigma2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\64
 0.set=DEX
-count=1
+0.base=E\:\\projects android\\Sigma2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\65
+2.baseType=DIRECTORY
+1.path=classes.dex

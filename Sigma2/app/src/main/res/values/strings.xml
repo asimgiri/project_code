@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sigma</string>
+    <string name="action_settings">Settings</string>
+    <string name="emailHint">Enter your email here</string>
+    <string name="passwordHint">Enter your password here</string>
+    <string name="login">Login</string>
+    <string name="message">Tap the mic to perform actions</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>

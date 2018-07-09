@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TextToSpeechDemo">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <EditText
+            android:layout_width="252dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/getText"
+            android:gravity="center"
+            android:layout_marginLeft="45dp"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/start"
+            android:layout_below="@+id/getText"
+            android:text="@string/start"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+            android:includeFontPadding="false"
+            android:layout_marginLeft="125dp"
+            />
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/stop"
+            android:layout_below="@+id/start"
+            android:text="@string/stop"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+
+            android:layout_marginLeft="125dp"/>
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
